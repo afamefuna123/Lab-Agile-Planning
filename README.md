@@ -1,1 +1,1 @@
-# Lab-Agile-Plannimg
+# Lab-Agile-Planning
